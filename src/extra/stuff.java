@@ -13,12 +13,14 @@ public static void main(String[] args) {
 		int current ;
 		current = last + slast;
 		slast = last;
-			last = current;
-		System.out.println(current);}
+		System.out.println(current);	
+		last = current;
+	}
 	
 	
 	
-	
+	//int one = 10;
+	//for
 	
 	
 	
